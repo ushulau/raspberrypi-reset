@@ -6,8 +6,13 @@
   "dependencies": {
     "command-line-args": "^5.0.2",
     "command-line-usage": "^5.0.5",
+    "commander": "^2.19.0",
+    "elasticsearch": "^15.1.1",
+    "moving-average": "^1.0.0",
     "onoff": "^3.2.1",
-    "pkg": "^4.3.3"
+    "pkg": "^4.3.3",
+    "raspi-sensors": "^0.2.11",
+    "wemo-client": "^0.15.0"
   },
   "devDependencies": {},
   "scripts": {
